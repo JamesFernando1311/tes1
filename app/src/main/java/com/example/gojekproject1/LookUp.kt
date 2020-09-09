@@ -1,4 +1,5 @@
 package com.example.gojekproject1
 
-class LookUp {
+data class LookUp {
+    val numberofDeath: Int
 }
